@@ -1,23 +1,20 @@
 [[
 title: Welcome
-author: PyKwiki
-description: The default PyKwiki startup page.
+author: Rob Blades
 tags: [pykwiki]
 ]]
 
 # Welcome!
 
-Thanks for installing PyKwiki!
+This is my open research notebook. While you can follow my GitBook writing, this is a place where I make my research related to the project available to you.
 
-This page can be found in `source/index.md`.
+Resources:
 
-Where to go from here:
+* My project will be written live at [GitBook](https://www.gitbook.com/book/rblades/pembroke-soundscapes/details)
+* [GitHub Repo](http://github.com/rblades)
+* [Website](http://bladesrob.com)
+* [Twitter](http://twitter.com/BladesRob)
 
-* [Official Documentation](http://pykwiki.nullism.com/)
-* [PyKwiki - Authoring](http://pykwiki.nullism.com/authoring.html)
-* [PyKwiki - config.yaml](http://pykwiki.nullism.com/config.yaml.html)
-* [PyKwiki - links.yaml](http://pykwiki.nullism.com/links.yaml.html)
-
-Report issues at [GitHub - PyKwiki](https://github.com/webgovernor/pykwiki)
+Created with [PyKwiki](https://github.com/nullism/pykwiki)
 
 

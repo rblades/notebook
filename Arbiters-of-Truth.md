@@ -1,0 +1,8 @@
+[[
+title: Arbiters-of-Truth
+tags: [public history]
+]]
+
+I had my first interview today with my Nana, aunt, and mom. It was an interesting session in that they answered questions about their experiences, but they were also showing me places on Google Maps and telling me about where to research. 
+
+It got me thinking more about the place of public historians, at least any historian who deals with oral interviews/living subjects (let's leave managing the dead for another post), as logistic managers - organizers. I talked a bit about this in [my last post](The-Ethical-Historian_A-Beautiful-Workflow). My Nana mentioned that she has read many theses and academic works from different disciplines and that while interesting there is often no 'hook'. Essentially, she explained that a lot of academic work does not try to produce affect in readers. See, people understand these concepts and explore them everyday. Maybe they don't have the specific terminology used in academia, but they engage with the same ideas. *I realized that the people in my project and historians themselves.* I recognize in my GitBook that I too am a participant of different publics - ok, nothing new or groundbreaking for public history. But these interactions convince me more each day that historians help to manage histories. They bring sources together. Now historians are not menial or unimportant. We learn skills that help us create great works and tell amazing stories. But we must recognize that we all participate in the creation of truth and history regarding the past. And we should recognize our role in that creation, and to use that role the best we can. 
